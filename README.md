@@ -51,4 +51,85 @@ This resulted in a **master dataset** combining delivery performance and custome
 
 ### Delivery Delay Calculation
 
+Orders were classified into:
+
+- **On Time** → Delivered on or before estimated date  
+- **Late** → Delivered after estimated date  
+- **Super Late** → More than 5 days late  
+
+This allowed clear segmentation of delivery performance.
+
+---
+
+### Candidate’s Choice (Added Value)
+
+An additional analysis was introduced to evaluate **delivery performance by product category**.
+
+#### Why this matters:
+Different products have different logistical complexity. For example:
+- Large items (e.g., furniture) may experience more delays  
+- Smaller items (e.g., electronics) may be delivered faster  
+
+This insight helps prioritize operational improvements by product type.
+
+---
+
+## 📊 Key Insights
+
+- Average customer review score: **~4.08**
+- Late and super-late deliveries significantly reduce customer satisfaction
+- Delivery delays are **not evenly distributed geographically**
+- Certain regions experience higher rates of late deliveries
+- Some product categories show higher delivery risk than others
+
+---
+
+## 🌍 Geographic Insight
+
+The analysis shows that delivery performance varies by region:
+
+- Some states have a higher concentration of late deliveries  
+- This suggests logistical inefficiencies are **region-specific, not nationwide**
+
+---
+
+## 💬 Sentiment Correlation
+
+There is a clear relationship between delivery performance and customer reviews:
+
+- **On-time deliveries → Higher ratings**
+- **Late deliveries → Lower ratings**
+- **Super-late deliveries → Significant drop in satisfaction**
+
+This confirms that logistics performance directly impacts customer experience.
+
+---
+
+## 💡 Root Cause Insight
+
+> The primary issue is not just delivery delays, but inaccurate delivery estimates.
+
+Customers are often given unrealistic expectations, leading to dissatisfaction even when delays are small.
+
+---
+
+## 🚀 Final Recommendations
+
+- Improve delivery time prediction models  
+- Set more realistic estimated delivery dates  
+- Focus operational improvements on worst-performing regions  
+- Monitor high-risk product categories  
+- Align logistics performance with customer expectations  
+
+---
+
+## 📈 Project Value
+
+This project demonstrates how data analytics can:
+
+- Identify operational inefficiencies  
+- Link logistics performance to customer sentiment  
+- Provide actionable insights for business improvement  
+- Support data-driven decision-making in supply chain management  
+
 A key metric was created:
